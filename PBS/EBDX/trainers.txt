@@ -1,0 +1,41 @@
+#-------------------------------
+[RIVAL1]
+BattleBGM        = Battle Elite.mid
+#-------------------------------
+[RIVAL1,Blue]
+BattleVS         = forestSM
+#-------------------------------
+[RIVAL1,Blue,1]
+BattleVS         = flamesSM
+#-------------------------------
+[RIVAL1,Blue,2]
+BattleVS         = wavesSM
+#-------------------------------
+[LEADER_Garrison]
+BattleVS         = minorTrainer
+#-------------------------------
+[TRAINER_Garrison]
+BattleVS         = minorTrainer
+#-------------------------------
+[GYMLEADER_Milo]
+BattleVS         = minorTrainer
+#-------------------------------
+[THUG]
+BattleVS         = minorTrainer
+#-------------------------------
+[POKEMONTRAINER_Faye]
+BattleVS         = minorTrainer
+#-------------------------------
+[POKEMONTRAINER_Del]
+BattleVS         = minorTrainer
+#-------------------------------
+[TEAMBLIGHT_ADMINf]
+BattleVS         = minorTrainer
+#-------------------------------
+[TEAMBLIGHT_M]
+BattleIntro      = evilTeam
+BattleVS         = trainerSM
+#-------------------------------
+[TEAMBLIGHT_F]
+BattleIntro      = evilTeam
+BattleVS         = trainerSM

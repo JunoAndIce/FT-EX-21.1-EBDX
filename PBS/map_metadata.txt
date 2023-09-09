@@ -1,0 +1,110 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001]   # Intro
+Name = Intro
+#-------------------------------
+[033]   # Hidden Place
+Name = Hidden Place
+#-------------------------------
+[042]   # Greenleaf Orphanage
+Name = Greenleaf Orphanage
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,11,16
+#-------------------------------
+[043]   # Lillium Ranch Lab
+Name = Lillium Ranch Lab
+MapPosition = 0,16,14
+#-------------------------------
+[048]   # Greenleaf Orphanage
+Name = Greenleaf Orphanage
+MapPosition = 0,11,16
+#-------------------------------
+[076]   # Greenleaf Orphanage
+Name = Greenleaf Orphanage
+MapPosition = 0,11,16
+#-------------------------------
+[077]   # Greenleaf Orphanage Gate
+Name = Greenleaf Orphanage Gate
+Bicycle = true
+MapPosition = 0,12,16
+#-------------------------------
+[078]   # Helianthus Town
+Name = Helianthus Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 78,34,24
+MapPosition = 0,14,16
+#-------------------------------
+[079]   # Helianthus Town
+Name = Helianthus Town
+MapPosition = 0,14,16
+#-------------------------------
+[080]   # Helianthus Town
+Name = Helianthus Town
+MapPosition = 0,14,16
+#-------------------------------
+[081]   # Helianthus Town
+Name = Helianthus Town
+MapPosition = 0,14,16
+#-------------------------------
+[082]   # Helianthus Town
+Name = Helianthus Town
+MapPosition = 0,14,16
+#-------------------------------
+[083]   # Avit's Lab
+Name = Avit's Lab
+MapPosition = 0,14,16
+#-------------------------------
+[084]   # Helianthus Pokémon Center
+Name = Helianthus Pokémon Center
+MapPosition = 0,14,16
+#-------------------------------
+[085]   # Route A
+Name = Route A
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,14
+#-------------------------------
+[086]   # Route A Gate
+Name = Route A Gate
+MapPosition = 0,14,15
+#-------------------------------
+[087]   # Route A Gate
+Name = Route A Gate
+MapPosition = 0,14,13
+#-------------------------------
+[088]   # Lillium Ranch
+Name = Lillium Ranch
+Outdoor = true
+ShowArea = true
+HealingSpot = 88,40,11
+MapPosition = 0,16,14
+#-------------------------------
+[089]   # Lillium Ranch Gate
+Name = Lillium Ranch Gate
+MapPosition = 0,15,14
+#-------------------------------
+[090]   # Leona and Gray's House
+Name = Leona and Gray's House
+MapPosition = 0,16,14
+#-------------------------------
+[091]   # Lillium City
+Name = Lillium City
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,12
+#-------------------------------
+[318]   # Avit's Lab: Back Room
+Name = Avit's Lab: Back Room
+MapPosition = 0,14,16
+#-------------------------------
+[322]   # Greenleaf Orphanage: Study
+Name = Greenleaf Orphanage: Study
+MapPosition = 0,11,16
+#-------------------------------
+[443]   # Route A
+Name = Route A
+MapPosition = 0,14,14

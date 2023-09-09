@@ -1,0 +1,784 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[POKEMONTRAINER_Red]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = Final Battle
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[POKEMONTRAINER_Leaf]
+Name = Pokémon Trainer
+Gender = Female
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = Final Battle
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[AROMALADY]
+Name = Aroma Lady
+Gender = Female
+BaseMoney = 32
+IntroBGM  = Encounter Beauty_loop
+#-------------------------------
+[BEAUTY]
+Name = Beauty
+Gender = Female
+BaseMoney = 56
+IntroBGM  = Encounter Beauty_loop
+#-------------------------------
+[BIKER]
+Name = Biker
+Gender = Male
+BaseMoney = 32
+IntroBGM  = Encounter Hiker_loop
+#-------------------------------
+[BIRDKEEPER]
+Name = Bird Keeper
+Gender = Male
+BaseMoney = 32
+IntroBGM  = Encounter Youngster_loop
+#-------------------------------
+[BUGCATCHER]
+Name = Bug Catcher
+Gender = Male
+BaseMoney = 16
+IntroBGM  = Encounter Youngster_loop
+#-------------------------------
+[BURGLAR]
+Name = Burglar
+Gender = Male
+BaseMoney = 88
+SkillLevel = 32
+IntroBGM  = Encounter PokeManiac_loop
+#-------------------------------
+[MEDIUM]
+Name = Medium
+Gender = Female
+BaseMoney = 32
+IntroBGM  = Encounter PokeManiac_loop
+#-------------------------------
+[CUEBALL]
+Name = Cue Ball
+Gender = Male
+BaseMoney = 24
+IntroBGM  = Encounter Hiker_loop
+#-------------------------------
+[ENGINEER]
+Name = Engineer
+Gender = Male
+BaseMoney = 48
+IntroBGM  = Encounter Hiker_loop
+#-------------------------------
+[FISHERMAN]
+Name = Fisherman
+Gender = Male
+BaseMoney = 32
+IntroBGM  = Encounter Hiker_loop
+#-------------------------------
+[EXPERT]
+Name = Expert
+Gender = Male
+BaseMoney = 72
+IntroBGM  = Encounter Hiker_loop
+#-------------------------------
+[GENTLEMAN]
+Name = Gentleman
+Gender = Male
+BaseMoney = 72
+SkillLevel = 32
+IntroBGM  = Encounter Hiker_loop
+#-------------------------------
+[HIKER]
+Name = Hiker
+Gender = Male
+BaseMoney = 32
+IntroBGM  = Encounter Hiker_loop
+#-------------------------------
+[JUGGLER]
+Name = Juggler
+Gender = Male
+BaseMoney = 32
+IntroBGM  = Encounter PokeManiac_loop
+#-------------------------------
+[LADY]
+Name = Lady
+Gender = Female
+BaseMoney = 72
+SkillLevel = 32
+IntroBGM  = Encounter Beauty_loop
+#-------------------------------
+[POKEMANIAC]
+Name = Poké Maniac
+Gender = Male
+BaseMoney = 64
+IntroBGM  = Encounter PokeManiac_loop
+#-------------------------------
+[POKEMONBREEDER]
+Name = Pokémon Breeder
+Gender = Female
+BaseMoney = 48
+IntroBGM  = Encounter Beauty_loop
+#-------------------------------
+[PROFESSOR]
+Name = Professor
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[ROCKER]
+Name = Guitarist
+Gender = Male
+BaseMoney = 24
+IntroBGM  = Encounter Hiker_loop
+#-------------------------------
+[RUINMANIAC]
+Name = Ruin Maniac
+Gender = Male
+BaseMoney = 48
+IntroBGM  = Encounter PokeManiac_loop
+#-------------------------------
+[SAILOR]
+Name = Sailor
+Gender = Male
+BaseMoney = 48
+IntroBGM  = Encounter Hiker_loop
+#-------------------------------
+[SCIENTIST]
+Name = Scientist
+Gender = Male
+BaseMoney = 48
+IntroBGM  = Encounter PokeManiac_loop
+#-------------------------------
+[SUPERNERD]
+Name = Super Nerd,
+Gender = Male
+BaseMoney = 48
+IntroBGM  = Encounter PokeManiac_loop
+#-------------------------------
+[BLACKBELT]
+Name = Black Belt,
+Gender = Male
+BaseMoney = 48
+IntroBGM  = Encounter Hiker_loop
+#-------------------------------
+[CRUSHGIRL]
+Name = Black Belt,
+Gender = Female
+BaseMoney = 48
+IntroBGM  = Encounter Beauty_loop
+#-------------------------------
+[CAMPER]
+Name = Camper,
+Gender = Female
+BaseMoney = 16
+IntroBGM  = Encounter Youngster_loop
+#-------------------------------
+[PICNICKER]
+Name = Picnicker,
+Gender = Female
+BaseMoney = 16
+IntroBGM  = Encounter Lass_loop
+#-------------------------------
+[YOUNGSTER]
+Name = Youngster,
+Gender = Male
+BaseMoney = 16
+IntroBGM  = Encounter Youngster_loop
+#-------------------------------
+[LASS]
+Name = Lass,
+Gender = Female
+BaseMoney = 16
+IntroBGM  = Encounter Lass_loop
+#-------------------------------
+[POKEMONRANGER_M]
+Name = Pokémon Ranger,
+Gender = Male
+BaseMoney = 60
+IntroBGM  = Encounter Hiker_loop
+#-------------------------------
+[POKEMONRANGER_F]
+Name = Pokémon Ranger,
+Gender = Male
+BaseMoney = 60
+IntroBGM  = Encounter Beauty_loop
+#-------------------------------
+[PSYCHIC_M]
+Name = Psychic,
+Gender = Male
+BaseMoney = 32
+IntroBGM  = Encounter Youngster_loop
+#-------------------------------
+[PSYCHIC_F]
+Name = Psychic,
+Gender = Female
+BaseMoney = 32
+IntroBGM  = Encounter Lass_loop
+#-------------------------------
+[SWIMMER_M]
+Name = Swimmer,
+Gender = Male
+BaseMoney = 16
+SkillLevel = 32
+IntroBGM  = Encounter Hiker_loop
+#-------------------------------
+[SWIMMER_F]
+Name = Swimmer,
+Gender = Female
+BaseMoney = 16
+SkillLevel = 32
+IntroBGM  = Encounter Beauty_loop
+#-------------------------------
+[SWIMMER2_M]
+Name = Swimmer,
+Gender = Male
+BaseMoney = 16
+SkillLevel = 32
+IntroBGM  = Encounter Hiker_loop
+#-------------------------------
+[SWIMMER2_F]
+Name = Swimmer,
+Gender = Female
+BaseMoney = 16
+SkillLevel = 32
+IntroBGM  = Encounter Beauty_loop
+#-------------------------------
+[TUBER_M]
+Name = Swimmer,
+Gender = Male
+BaseMoney = 4
+SkillLevel = 16
+IntroBGM  = Encounter Hiker_loop
+#-------------------------------
+[TUBER_F]
+Name = Swimmer,
+Gender = Female
+BaseMoney = 4
+SkillLevel = 16
+IntroBGM  = Encounter Beauty_loop
+#-------------------------------
+[TUBER2_M]
+Name = Swimmer,
+Gender = Male
+BaseMoney = 4
+SkillLevel = 16
+IntroBGM  = Encounter Hiker_loop
+#-------------------------------
+[TUBER2_F]
+Name = Swimmer,
+Gender = Female
+BaseMoney = 4
+SkillLevel = 16
+IntroBGM  = Encounter Beauty_loop
+#-------------------------------
+[YOUNGCOUPLE]
+Name = Young Couple,
+Gender = Mixed
+BaseMoney = 60
+#-------------------------------
+[POKEFAN]
+Name = Pokéfan
+Gender = Male
+BaseMoney = 48
+IntroBGM = Encounter Hiker_loop
+#-------------------------------
+[POKEFAN_F]
+Name = Pokéfan
+Gender = Female
+BaseMoney = 48
+IntroBGM = Encounter Beauty_loop
+#-------------------------------
+[RICHBOY]
+Name = Rich Boy
+Gender = Male
+BaseMoney = 160
+SkillLevel = 32
+IntroBGM = Encounter Hiker_loop
+#-------------------------------
+[SCIENTISTF]
+Name = Scientist
+Gender = Female
+BaseMoney = 48
+IntroBGM = Encounter PokeManiac_loop
+#-------------------------------
+[REPORTER]
+Name = Reporter
+Gender = Female
+BaseMoney = 48
+IntroBGM = Encounter Beauty_loop
+#-------------------------------
+[POKEMONBREEDER_M]
+Name = Pokémon Breeder
+Gender = Male
+BaseMoney = 48
+IntroBGM = Encounter Hiker_loop
+#-------------------------------
+[POKEMONBREEDER_F]
+Name = Pokémon Breeder
+Gender = Female
+BaseMoney = 48
+IntroBGM = Encounter Hiker_loop
+#-------------------------------
+[ACETRAINER_M]
+Name = Ace Trainer
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+IntroBGM = Encounter Hiker_loop
+#-------------------------------
+[ACETRAINER_F]
+Name = Ace Trainer
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+IntroBGM = Encounter Beauty_loop
+#-------------------------------
+[SNACETRAINER_M]
+Name = Ace Trainer
+Gender = Male
+BaseMoney =  60
+BattleBGM = Encounter Hiker_loop
+#-------------------------------
+[SNACETRAINER_F]
+Name = Ace Trainer
+Gender = Female
+BaseMoney =  60
+BattleBGM = Encounter Beauty_loop
+#-------------------------------
+[MADAME]
+Name = Madame
+Gender = Female
+BaseMoney = 72
+IntroBGM = Encounter Beauty_loop
+#-------------------------------
+[HEADSCIENTIST]
+Name = Head Scientist
+Gender = Male
+BaseMoney = 48
+SkillLevel = 100
+IntroBGM = Encounter PokeManiac_loop
+#-------------------------------
+[SAILORTRIO]
+Name = Sailor Gang
+Gender = Male
+BaseMoney = 60
+IntroBGM = Encounter Hiker_loop
+#-------------------------------
+[CULTIST]
+Name = Cultist
+Gender = Female
+BaseMoney = 32
+IntroBGM = Encounter PokeManiac_loop
+#-------------------------------
+[CAPTAIN]
+Name = Captain
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[SAGE]
+Name = Sage
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[CROAGUNK]
+Name = Croagunk
+Gender = Mixed
+BaseMoney = 0
+#-------------------------------
+[TOXICROAK]
+Name = Croagunk
+Gender = Male
+BaseMoney = 0
+#-------------------------------
+[MAGMAGRUNT]
+Name = Team Magmortar
+Gender = Male
+BaseMoney = 32
+SkillLevel = 50
+BattleBGM = Vs.Gang Grunt
+#-------------------------------
+[MAGMAGRUNTS]
+Name = Team Magmortar
+Gender = Male
+BaseMoney = 32
+SkillLevel = 70
+BattleBGM = Vs.Gang Grunt
+#-------------------------------
+[ELECTGRUNT]
+Name = Team Electivire
+Gender = Male
+BaseMoney = 32
+SkillLevel = 50
+BattleBGM = Vs.Gang Grunt
+#-------------------------------
+[ELECTGRUNTS]
+Name = Team Electivire
+Gender = Male
+BaseMoney = 32
+SkillLevel = 70
+BattleBGM = Vs.Gang Grunt
+#-------------------------------
+[MAGMABOSS]
+Name = Team Magmortar Boss
+Gender = Male
+BaseMoney = 62
+SkillLevel = 100
+BattleBGM = Vs.Gang Boss
+#-------------------------------
+[ELECTBOSS]
+Name = Team Electivire Boss
+Gender = Male
+BaseMoney =  62
+SkillLevel = 100
+BattleBGM = Vs.Gang Boss
+#-------------------------------
+[CHAMPION]
+Name = Champion,
+Gender = Male
+BaseMoney = 100
+BattleBGM = Vs.Virgil
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[BLIGHTLEADER]
+Name = Team Blight Leader
+Gender = Male
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = Vs.Venom 1
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[TEAMBLIGHT_M]
+Name = Team Blight
+Gender = Male
+BaseMoney = 32
+SkillLevel = 64
+BattleBGM = Vs.Blight Grunts
+#-------------------------------
+[ELITEGRUNT]
+Name = Elite Team Blight
+Gender = Male
+BaseMoney = 64
+SkillLevel = 72
+BattleBGM = Vs.Blight Grunts
+#-------------------------------
+[TEAMBLIGHT_F]
+Name = Team Blight
+Gender = Female
+BaseMoney = 32
+SkillLevel = 64
+IntroBGM  = Encounter Blight_loop
+BattleBGM = Vs.Blight Grunts
+#-------------------------------
+[ELITEGRUNT_F]
+Name = Team Blight
+Gender = Female
+BaseMoney = 64
+SkillLevel = 72
+IntroBGM  = Encounter Blight_loop
+BattleBGM = Vs.Blight Grunts
+#-------------------------------
+[TEAMBLIGHT]
+Name = Team Blight
+Gender = Mixed
+BaseMoney = 32
+SkillLevel = 64
+IntroBGM = Encounter Blight_loop
+BattleBGM = Vs.Blight Grunts
+#-------------------------------
+[NEOTEAMBLIGHT_M]
+Name = Team Blight
+Gender = Male
+BaseMoney = 32
+SkillLevel = 64
+IntroBGM = Encounter Blight_loop
+BattleBGM = Vs.Blight Grunts
+#-------------------------------
+[NEOTEAMBLIGHT_F]
+Name = Team Blight
+Gender = Female
+BaseMoney = 32
+SkillLevel = 64
+IntroBGM = Encounter Blight_loop
+BattleBGM = Vs.Blight Grunts
+#-------------------------------
+[TEAMBLIGHT_ADMINf]
+Name = Team Blight Admin
+Gender = Female
+BaseMoney = 62
+SkillLevel = 100
+BattleBGM = Vs.Xyla
+#-------------------------------
+[TEAMBLIGHT_ADMINm]
+Name = Team Blight Admin
+Gender = Male
+BaseMoney = 62
+SkillLevel = 100
+BattleBGM = Vs.Lester
+#-------------------------------
+[TEAMBLIGHT_ADMINLES]
+Name = Team Blight Admin
+Gender = Female
+BaseMoney = 62
+SkillLevel = 100
+BattleBGM = Vs.Lester2
+#-------------------------------
+[NEOBLIGHTLES]
+Name = Neo Team Blight
+Gender = Male
+BaseMoney = 62
+SkillLevel = 100
+BattleBGM = Vs.Lester3
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[TEAMBLIGHT_Hyde]
+Name = Team Blight Admin
+Gender = Male
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = Vs.Hyde
+#-------------------------------
+[PROFESSOR_Vig]
+Name = Professor
+Gender = Male
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = Vs.Vigor
+#-------------------------------
+[OFFICERDUO]
+Name = Officer Duo
+Gender = Male
+BaseMoney = 100
+BattleBGM = Vs.Hyde
+#-------------------------------
+[OFFICERA]
+Name = Officer Duo
+Gender = Male
+BaseMoney = 100
+BattleBGM = Vs.Hyde
+#-------------------------------
+[OFFICERT]
+Name = Officer Duo
+Gender = Male
+BaseMoney = 100
+BattleBGM = Vs.Hyde
+#-------------------------------
+[THUG]
+Name = Pokémon Thief
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+BattleBGM = Vs.Marshal
+#-------------------------------
+[THUGO]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 60
+SkillLevel = 100
+BattleBGM = Vs.Marshal
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[POKEMONTRAINER_Faye]
+Name = Pokémon Trainer,
+Gender = Female
+BaseMoney = 64
+SkillLevel = 100
+BattleBGM = Vs.Faye
+#-------------------------------
+[POKEMONTRAINER_Fayex]
+Name = Pokémon Trainer,
+Gender = Female
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = Vs.Faye
+#-------------------------------
+[POKEMONTRAINER_Del]
+Name = Pokémon Trainer,
+Gender = Male
+BaseMoney = 64
+SkillLevel = 100
+BattleBGM = Vs.Del
+#-------------------------------
+[POKEMONTRAINER_Delx]
+Name = Pokémon Trainer,
+Gender = Male
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = Vs.Del
+#-------------------------------
+[LEADER_Garrison]
+Name = Pokémon Trainer,
+Gender = Male
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = Vs.Gym Leader
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[TRAINER_Garrison]
+Name = Pokémon Trainer,
+Gender = Male
+BaseMoney = 64
+SkillLevel = 100
+#-------------------------------
+[POKEMONTRAINER_Gar]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = Vs.Garrison
+#-------------------------------
+[VIGILANTE]
+Name = Pokémon Trainer
+Gender = Female
+BaseMoney = 60
+SkillLevel = 100
+BattleBGM = Vs.Scarlett
+#-------------------------------
+[GYMLEADER_Milo]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = Vs.Gym Leader
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[GYMLEADER_Leena]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+BattleBGM = Vs.Gym Leader
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[GYMLEADER_Hyde]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = Vs.Hyde
+#-------------------------------
+[GYMLEADER_Rika]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+BattleBGM = Vs.Gym Leader
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[GYMLEADER_Ace]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = Vs.Ace
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[GYMLEADER_Zephyron]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = Vs.Zephyron
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[ANSON]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[MISHA]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[GYMLEADER_Akira]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = Vs.Akira
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[GYMLEADER_Diego]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = Vs.Diego
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[GYMLEADER_Trish]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = Vs.Trish
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[GYMLEADER_Reigan]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = Vs.Reigan
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[GYMLEADER_Ramona]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = Vs.Ramona
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[GYMLEADER_Juno]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+SkillLevel = 100
+BattleBGM = Vs.Juno
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[ELITEFOUR_Kiera]
+Name = Elite Four
+Gender = Female
+BaseMoney = 100
+BattleBGM = Vs.Elite 4
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[ELITEFOUR_Emil]
+Name = Elite Four
+Gender = Male
+BaseMoney = 100
+BattleBGM = Vs.Elite 4
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[ELITEFOUR_Aiden]
+Name = Elite Four
+Gender = Male
+BaseMoney = 100
+BattleBGM = Vs.Elite 4
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[ELITEFOUR_Vincent]
+Name = Elite Four
+Gender = Male
+BaseMoney = 100
+BattleBGM = Vs.Elite 4
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[RANGER_Kara]
+Name = Pokémon Ranger Leader
+Gender = Female
+BaseMoney = 100
+BattleBGM = Vs.Kara
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[POKEMONTRAINER_Shiro]
+Name = Pokémon Trainer
+Gender = Female
+BaseMoney = 100
+BattleBGM = Vs.Shiro
+VictoryBGM = Victory Gym Leader
+#-------------------------------
+[POKEMONTRAINER_Blue]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 100
+BattleBGM = Vs.Blue
+VictoryBGM = Victory Gym Leader
